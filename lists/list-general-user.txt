@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# FinancialCavity/discord-zapret a3f3d4d22d8f
